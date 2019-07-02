@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aubit.Judge", "Aubit.Judge\Aubit.Judge.csproj", "{A5947F49-82DF-44CC-9A14-0225223EDD4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5947F49-82DF-44CC-9A14-0225223EDD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5947F49-82DF-44CC-9A14-0225223EDD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5947F49-82DF-44CC-9A14-0225223EDD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5947F49-82DF-44CC-9A14-0225223EDD4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F1CF38-2B03-41B6-9551-DC7F998F3EDF}
+	EndGlobalSection
+EndGlobal
